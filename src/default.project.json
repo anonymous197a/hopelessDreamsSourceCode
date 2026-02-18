@@ -1,0 +1,12 @@
+{
+  "name": "src",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$path": "src/Shared",
+      "Packages": {
+        "$path": "Packages"
+      }
+    }
+  }
+}

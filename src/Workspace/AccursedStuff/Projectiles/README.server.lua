@@ -1,0 +1,1 @@
+--anything inside this folder will not interfere with hitboxclass module
